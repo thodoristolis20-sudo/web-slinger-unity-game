@@ -12,6 +12,28 @@ The game combines web-swinging traversal with web-shooting combat and exploratio
 
 The project was developed in Unity and published on itch.io.
 
+## 📊 itch.io Performance & Analytics
+
+Since publishing Web Slinger, the game has reached players through itch.io.
+
+The following statistics were recorded between September 15 and October 14, 2026.
+
+![Web Slinger itch.io Analytics](screenshots/results.JPG)
+
+### 📈 Performance Highlights
+
+| Metric | Result |
+|---|---:|
+| Total Views | 5,701 |
+| Downloads | 1,280 |
+| Ratings | 2 |
+| Comments | 9 |
+| Collections | 23 |
+| Gross Revenue | €3.00 |
+| Click-Through Rate (CTR) | 6.45% |
+
+These results demonstrate the game's reach, downloads, and engagement on itch.io.
+
 ## ✨ Features
 
 ### 🕸️ Web-Swinging Mechanics
