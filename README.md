@@ -41,8 +41,8 @@ The project was developed in Unity and published on itch.io.
 
 ## 🎬 Gameplay Preview
 
-![Web Slinger Gameplay](screenshots/gameplay.png)
-![Web Slinger Gameplay](screenshots/character.jpg)
+![Web Slinger Gameplay](screenshots/gameplay.jpg)
+![Web Slinger Gameplay](screenshots/character.png)
 ![Web Slinger Gameplay](screenshots/world.png)
 
 ## 🚀 Play the Game
