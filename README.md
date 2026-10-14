@@ -34,34 +34,16 @@ The project was developed in Unity and published on itch.io.
 - Two side missions.
 - Additional exploration objectives.
 
-### 🎮 Controls
-
-| Input | Action |
-|---|---|
-| Right Mouse Button (Airborne) | Start swinging |
-| Right Mouse Button (Grounded) | Shoot web |
-| Left Mouse Button | Punch |
-| Space (Swinging) | Swing boost |
-| Space (Grounded) | Jump |
-| E | Interact |
-| R | Restart |
-| M | Open map |
-
 ## 🛠️ Technologies
 
 - **Unity** — Game engine
-- **C#** — Scripting language (confirm against the source project)
+- **C#** — Scripting language
 
-## 🖼️ Screenshots
+## 🎬 Gameplay Preview
 
-Add screenshots of the game to the `screenshots/` folder.
-
-Recommended images:
-- Main menu
-- Web swinging gameplay
-- Combat encounters
-- City exploration
-- Mission gameplay
+![Web Slinger Gameplay](gameplay.jpg)
+![Web Slinger Gameplay](character.jpg)
+![Web Slinger Gameplay](world.jpg)
 
 ## 🚀 Play the Game
 
